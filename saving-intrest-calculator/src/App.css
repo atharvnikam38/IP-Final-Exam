@@ -1,0 +1,16 @@
+
+.main{
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+
+.inp{
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.button:hover{
+  background-color: green;
+  color: white;;
+}
